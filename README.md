@@ -13,4 +13,4 @@ Double click on input fields to open the file dialogue for uploading of PDF file
 
 *(EB_WEALTH_CLIENTELE_PORTAL.exe is coded in C++, with user interface designed in XML, 
 and database functions done with SQL.
-Contact Jeremy Lian at zlian001@e.ntu.edu.sg for full source code.)
+Contact Jeremy Lian at zlian001@e.ntu.edu.sg for full source code.)*
